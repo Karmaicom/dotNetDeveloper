@@ -30,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Funcao.cs",
-              "DocumentMoniker": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Funcao.cs",
-              "RelativeDocumentMoniker": "ProjetoAula02\\Entities\\Funcao.cs",
-              "ToolTip": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Funcao.cs",
-              "RelativeToolTip": "ProjetoAula02\\Entities\\Funcao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:05:52.665Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -55,8 +42,7 @@
               "RelativeToolTip": "ProjetoAula02\\Entities\\Setor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:05:13.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T17:05:13.515Z"
             },
             {
               "$type": "Document",
@@ -68,8 +54,7 @@
               "RelativeToolTip": "ProjetoAula02\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T17:04:10.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T17:04:10.362Z"
             },
             {
               "$type": "Document",
@@ -79,10 +64,22 @@
               "RelativeDocumentMoniker": "ProjetoAula02\\Entities\\Funcionario.cs",
               "ToolTip": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Funcionario.cs",
               "RelativeToolTip": "ProjetoAula02\\Entities\\Funcionario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-16T16:59:16.031Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcao.cs",
+              "DocumentMoniker": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Funcao.cs",
+              "RelativeDocumentMoniker": "ProjetoAula02\\Entities\\Funcao.cs",
+              "ToolTip": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Funcao.cs",
+              "RelativeToolTip": "ProjetoAula02\\Entities\\Funcao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:05:52.665Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "ProjetoAula02\\Entities\\Pessoa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T16:59:01.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T16:59:01.897Z"
             }
           ]
         }
