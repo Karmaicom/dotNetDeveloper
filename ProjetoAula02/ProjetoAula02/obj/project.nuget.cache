@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IJ6gp8kt0ZA=",
+  "success": true,
+  "projectFilePath": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\ProjetoAula02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\actdigital\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\actdigital\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

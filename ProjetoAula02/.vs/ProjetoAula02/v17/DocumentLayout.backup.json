@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace-coti\\ProjetoAula02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0B53C-6E4D-4C17-AC14-7796D85D2BDE}|ProjetoAula02\\ProjetoAula02.csproj|c:\\workspace-coti\\projetoaula02\\projetoaula02\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0B53C-6E4D-4C17-AC14-7796D85D2BDE}|ProjetoAula02\\ProjetoAula02.csproj|solutionrelative:projetoaula02\\entities\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5C0B53C-6E4D-4C17-AC14-7796D85D2BDE}|ProjetoAula02\\ProjetoAula02.csproj|c:\\workspace-coti\\projetoaula02\\projetoaula02\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5C0B53C-6E4D-4C17-AC14-7796D85D2BDE}|ProjetoAula02\\ProjetoAula02.csproj|solutionrelative:projetoaula02\\entities\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Funcionario.cs",
+              "RelativeDocumentMoniker": "ProjetoAula02\\Entities\\Funcionario.cs",
+              "ToolTip": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Funcionario.cs",
+              "RelativeToolTip": "ProjetoAula02\\Entities\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:59:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Pessoa.cs",
+              "RelativeDocumentMoniker": "ProjetoAula02\\Entities\\Pessoa.cs",
+              "ToolTip": "C:\\workspace-coti\\ProjetoAula02\\ProjetoAula02\\Entities\\Pessoa.cs",
+              "RelativeToolTip": "ProjetoAula02\\Entities\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T16:59:01.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

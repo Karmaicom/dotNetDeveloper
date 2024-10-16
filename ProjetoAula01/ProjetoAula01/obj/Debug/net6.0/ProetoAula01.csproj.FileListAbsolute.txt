@@ -1,0 +1,14 @@
+C:\workspace-coti\ProetoAula01\ProetoAula01\bin\Debug\net6.0\ProetoAula01.exe
+C:\workspace-coti\ProetoAula01\ProetoAula01\bin\Debug\net6.0\ProetoAula01.deps.json
+C:\workspace-coti\ProetoAula01\ProetoAula01\bin\Debug\net6.0\ProetoAula01.runtimeconfig.json
+C:\workspace-coti\ProetoAula01\ProetoAula01\bin\Debug\net6.0\ProetoAula01.dll
+C:\workspace-coti\ProetoAula01\ProetoAula01\bin\Debug\net6.0\ProetoAula01.pdb
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ProetoAula01.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ProetoAula01.AssemblyInfoInputs.cache
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ProetoAula01.AssemblyInfo.cs
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ProetoAula01.csproj.CoreCompileInputs.cache
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ProetoAula01.dll
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\refint\ProetoAula01.dll
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ProetoAula01.pdb
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ProetoAula01.genruntimeconfig.cache
+C:\workspace-coti\ProetoAula01\ProetoAula01\obj\Debug\net6.0\ref\ProetoAula01.dll
