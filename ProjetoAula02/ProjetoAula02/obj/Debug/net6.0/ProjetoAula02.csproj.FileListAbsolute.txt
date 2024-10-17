@@ -17,3 +17,4 @@ C:\workspace-coti\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\System.Configurat
 C:\workspace-coti\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\workspace-coti\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.csproj.AssemblyReference.cache
 C:\workspace-coti\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoA.152A14C4.Up2Date
+C:\workspace-coti\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.sourcelink.json
